@@ -1,4 +1,4 @@
-![Mnemonic_Figure](https://github.com/nbalepur/Mnemonic/assets/55101514/09762a1e-8d6c-4e68-a2d8-72acd2c6aed1)# A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick
+# A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick
 
 This repository contains the code, data, and pre-trained models for our Arxiv paper: **A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**
 
