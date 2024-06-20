@@ -4,6 +4,8 @@ This repository contains the code, data, and pre-trained models for our Arxiv pa
 
 [🦾 [Model]() / 📊 Data / 📝 Paper]
 
+<img href=/image/Mnemonic_Figure.svg></img>
+
 
 ## Mnemonic Datasets
 - Mnemonic Fine-tuning Data: https://huggingface.co/datasets/nbalepur/Mnemonic_SFT
