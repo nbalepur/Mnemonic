@@ -3,7 +3,7 @@
 This repository contains the code, data, and pre-trained models for our Arxiv paper: **A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**
 
 <h3 align="center">
-<span style="color:black">🦾 <a style="color:black;" href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Model</a>  |  📊 <a href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Data</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;📝 <a href="https://www.overleaf.com/read/hykpqxvmzgbt#5b4ca1">Paper</a></span>
+<span style="color:black">🦾 <a style="color:black;" href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Model</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;📊 <a href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Data</a>&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;📝 <a href="https://www.overleaf.com/read/hykpqxvmzgbt#5b4ca1">Paper</a></span>
 </h3>
 
 <br />
