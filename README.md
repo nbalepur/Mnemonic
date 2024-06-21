@@ -2,7 +2,7 @@
 
 This repository contains the code, data, and pre-trained models for our Arxiv paper: **A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**
 
-<p align="center" style="font-size:40px">
+<p align="center" font-size="40px">
 🦾 Model / 📊 Data / 📝 Paper
 </p>
 
