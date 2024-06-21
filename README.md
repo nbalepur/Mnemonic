@@ -6,6 +6,8 @@ This repository contains the code, data, and pre-trained models for our Arxiv pa
 <span style="color:black">🦾 <a style="color:black;" href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Model</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;📊 <a href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Data</a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;📝 <a href="https://www.overleaf.com/read/hykpqxvmzgbt#5b4ca1">Paper</a></span>
 </h3>
 
+![img](images/Mnemonic_Figure.png)
+
 <br />
 
 ## Mnemonic Datasets
