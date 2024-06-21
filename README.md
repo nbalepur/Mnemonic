@@ -24,12 +24,16 @@ We gather 2684 preferences from 45 students across two types: **expressed** (inf
 SMART is tuned via Direct Preference Optimization on this signal, which we show resolves ties and missing labels in the typical method of pairwise comparisons, augmenting data for LLM output quality gains. 
 3. Mnemonic experts assess SMART as matching GPT-4, at much lower deployment costs, showing the utility of capturing diverse student feedback to align LLMs in education.
 
-## Mnemonic Datasets
-- Mnemonic Fine-tuning Data: https://huggingface.co/datasets/nbalepur/Mnemonic_SFT
-- Mnemonic Student Preferences Data: https://huggingface.co/datasets/nbalepur/Mnemonic_Pref
-- Mnemonic Test Set: https://huggingface.co/datasets/nbalepur/Mnemonic_Test
+## Models and Dataset
 
-## Pre-trained SMART Models
+Our datasets and models can be downloaded [here](https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4)
+
+### Mnemonic Datasets
+- [Mnemonic Fine-tuning Data](https://huggingface.co/datasets/nbalepur/Mnemonic_SFT)
+- [Mnemonic Student Preferences Data](https://huggingface.co/datasets/nbalepur/Mnemonic_Pref)
+- [Mnemonic Test Set](https://huggingface.co/datasets/nbalepur/Mnemonic_Test)
+
+### Pre-trained SMART Models
 - SMART Tokenizer: https://huggingface.co/datasets/nbalepur/LLama-2-70b-Mnemonic-Tokenizer
 - SMART Fine-tuned: https://huggingface.co/nbalepur/LLama-2-70b-Mnemonic-SFT
 - SMART DPO: https://huggingface.co/nbalepur/LLama-2-70b-Mnemonic-DPO/
