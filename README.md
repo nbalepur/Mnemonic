@@ -34,6 +34,14 @@ Our datasets and models can be downloaded [here](https://huggingface.co/collecti
 - [Mnemonic Test Set](https://huggingface.co/datasets/nbalepur/Mnemonic_Test)
 
 ### Pre-trained SMART Models
-- SMART Tokenizer: https://huggingface.co/datasets/nbalepur/LLama-2-70b-Mnemonic-Tokenizer
-- SMART Fine-tuned: https://huggingface.co/nbalepur/LLama-2-70b-Mnemonic-SFT
-- SMART DPO: https://huggingface.co/nbalepur/LLama-2-70b-Mnemonic-DPO/
+- [SMART Tokenizer](https://huggingface.co/datasets/nbalepur/LLama-2-70b-Mnemonic-Tokenizer)
+- [SMART Fine-tuned Model](https://huggingface.co/nbalepur/LLama-2-70b-Mnemonic-SFT)
+- [SMART DPO Model](https://huggingface.co/nbalepur/LLama-2-70b-Mnemonic-DPO/)
+
+## Code
+
+TODO
+
+### Bayesian Modeling
+
+### Model Training
