@@ -1,6 +1,6 @@
 # SMART Mnemonic Generation
 
-This repository contains the code, data, and pre-trained models for our Arxiv paper: **[A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick](https://arxiv.org/abs/2406.15352)**
+This repository contains the code, data, and pre-trained models for our [Arxiv paper](https://arxiv.org/abs/2406.15352): **A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick**
 
 <h3 align="center">
 <span style="color:black">🦾 <a style="color:black;" href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Models</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;📊 <a href="https://huggingface.co/collections/nbalepur/mnemonic-generation-6674c357b3882fd58790ebd4">Data</a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;📝 <a href="https://arxiv.org/abs/2406.15352">Paper</a></span>
@@ -41,7 +41,7 @@ Our datasets and models can all be downloaded [here](https://huggingface.co/coll
 
 ## Code
 
-We provide the code for training SMART (or any LLM), computing the Bayesian labels from student feedback, and evaluating the pairwise quality of two model-generated mnemonic devices 
+We provide the code for training SMART (or any LLM), learning the Bayesian effectiveness labels from diverse student feedback, and evaluating the pairwise quality of two model-generated mnemonic devices 
 
 ### Training SMART
 
