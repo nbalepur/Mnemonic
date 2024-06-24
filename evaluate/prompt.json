@@ -1,0 +1,34 @@
+{
+  "generate_answer": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "term": "Descry",
+        "sentence": "",
+        "mnemonic_a": "if 10(des) people will cry every body will notice them!!",
+        "mnemonic_b": "descry sounds like describe; you cannot describe a person by descrying; you have to be a friend or alteast be close to him",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "term": "Vacillate",
+        "sentence": "the line on the monitor vacillated",
+        "mnemonic_a": "vacillate sounds like agitate... vacillate means to be undecided and agitate is to worry... in both, you are in a sense of confusion.",
+        "mnemonic_b": "sounds like oscillate..so something which moves from one position to another position.",
+        "answer": "B"
+      },
+      {
+        "term": "Abhor",
+        "sentence": "she abhors cats",
+        "mnemonic_a": "abhor sounds like \"a whore\" and we generally hate a whore....so to hate someone is abhoring that person",
+        "mnemonic_b": "focus on \"hor\"(suffix) hor=horse--so ,i hate horse",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "Given a vocabulary term, a sentence using the term, and two candidate mnemonics (Mnemonic A and Mnemonic B), classify whether Mnemonic A or Mnemonic B is a better mnemonic device. Output just the letter of the better mnemonic (\"A\" or \"B\")",
+    "signature_prefix": "Answer:"
+  }
+}
