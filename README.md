@@ -43,6 +43,14 @@ Our datasets and models can all be downloaded [here](https://huggingface.co/coll
 
 We provide the code for training SMART (or any LLM), learning the Bayesian effectiveness labels from diverse student feedback, and evaluating the pairwise quality of two model-generated mnemonic devices 
 
+### Setup
+
+This project was written in Python 3.10.0 and all packages were installed with Anaconda version 23.5.0 and pip version 24.0. All necessary packages can be installed with:
+
+```python
+pip install -r requirements.txt
+```
+
 ### Training SMART
 
 We have released the fine-tuning and DPO datasets using our combined Bayesian preference labels, so you can reproduce our trained model with the following steps.
